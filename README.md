@@ -1,4 +1,4 @@
-dumb-suffle
+dumb-shuffle
 ===========
 
 Dumb (Hard) Shuffle
